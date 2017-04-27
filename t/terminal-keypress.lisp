@@ -8,11 +8,5 @@
   :description "terminal-keypress tests.")
 (in-suite tests)
 
-(test simple-test
-  (is
-   (equal 1 1))
-  (is-true
-   (and t t)))
-
 (defun run-tests ()
   (run! 'tests))
