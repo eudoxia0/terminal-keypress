@@ -3,9 +3,9 @@
   :maintainer "Fernando Borretti <eudoxiahp@gmail.com>"
   :license "MIT"
   :version "0.1"
-  :homepage ""
-  :bug-tracker ""
-  :source-control (:git "")
+  :homepage "https://github.com/eudoxia0/terminal-keypress"
+  :bug-tracker "https://github.com/eudoxia0/terminal-keypress/issues"
+  :source-control (:git "https://github.com/eudoxia0/terminal-keypress.git")
   :depends-on (:trivial-raw-io
                :alexandria)
   :components ((:module "src"
